@@ -20,13 +20,9 @@
                 <h2 class="section-heading">My team</h2>
                 <div class="section-sub-heading">We love you guys</div>
                 <div class="about-text">
-                    Welcome to our innovative Web portal for motor servicing at home! Say goodbye to the hassle of
-                    traditional auto repair shops. With our convenient doorstep service, we bring the garage to you,
-                    saving you time and effort. Our certified technicians offer a comprehensive range of services, from
-                    routine maintenance to complex repairs, all performed at your location. Enjoy transparent pricing,
-                    easy online booking, and top-notch service quality. Experience the convenience of having your
-                    vehicle serviced without leaving your home. Trust us to keep your vehicle running smoothly while you
-                    relax in the comfort of your own space. Welcome to hassle-free motor servicing!
+                    Welcome to our cutting-edge robotics and electronics portal, inspired by various highly-intelligence robots all around the world. We’re passionate about making advanced robotics accessible, engaging, and fun! Whether you're a hobbyist, technician, or just a normal person , our platform offers a one-stop destination for exploring, repairing, and learning about advanced AI, robotics and electronics technology.
+                    Our team of skilled professionals provides remote support, live  diagnostics, and a full range of services. With easy online booking, transparent service options, and expert care, we bring top-quality robotics items directly to you. Furthermore, we offer a job as a security officier in our chain of restaurants.
+                    Join us in celebrating the creative and technical marvels of animatronics — where imagination meets innovation!
                 </div>
                 <div class="member-list">
                     <div class="member-item">

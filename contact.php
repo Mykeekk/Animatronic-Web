@@ -66,7 +66,7 @@
                                 <div class="contact-icon fa fa-phone"></div>
                                 <div class="information-description">
                                     <h4 class="description-heading">Phone</h4>
-                                    <div class="description-text">+84967314496</div>
+                                    <div class="description-text">+1967314496</div>
                                 </div>
 
                             </div>
