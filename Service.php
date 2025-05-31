@@ -23,9 +23,9 @@
                             <div class="doorstep-img-wrap">
                                 <img src="./assets/css/img/Doorstep_services/oilchange.jpg" alt="">
                                 <div class="text-container">
-                                    <h2 class="text-heading">OIL CHANGE</h2>
-                                    <div class="text-sub-heading">Stay at home and have us fixed every thing!</div>
-                                    <button data-id="1" type="submit" name="booking" class="booking-button">Book now!</button>
+                                    <h2 class="text-heading">SECURITY - NIGHT SHIFT</h2>
+                                    <div class="text-sub-heading">Be part of our family with payment up to $50/hour</div>
+                                    <button data-id="1" type="submit" name="booking" class="booking-button">Apply now!</button>
                                 </div>
                             </div>
 
@@ -34,9 +34,9 @@
                             <div class="doorstep-img-wrap">
                                 <img src="./assets/css/img/Doorstep_services/batteryTesting.jpg" alt="">
                                 <div class="text-container">
-                                    <h2 class="text-heading">BATTERY TESTING</h2>
-                                    <div class="text-sub-heading">Stay at home and have us fixed every thing!</div>
-                                    <button data-id="2" type="submit" name="booking" class="booking-button">Book now!</button>
+                                    <h2 class="text-heading">SECURITY - NIGHT SHIFT</h2>
+                                    <div class="text-sub-heading">Be part of our family with payment up to $50/hour</div>
+                                    <button data-id="2" type="submit" name="booking" class="booking-button">Apply now!</button>
                                 </div>
                             </div>
 
@@ -45,9 +45,9 @@
                             <div class="doorstep-img-wrap">
                                 <img src="./assets/css/img/Doorstep_services/carwashing.jpg" alt="">
                                 <div class="text-container">
-                                    <h2 class="text-heading">CAR WASHING</h2>
-                                    <div class="text-sub-heading">Stay at home and have us fixed every thing!</div>
-                                    <button data-id="3" type="submit" name="booking" class="booking-button">Book now!</button>
+                                    <h2 class="text-heading">SECURITY - NIGHT SHIFT</h2>
+                                    <div class="text-sub-heading">Be part of our family with payment up to $50/hour</div>
+                                    <button data-id="3" type="submit" name="booking" class="booking-button">Apply now!</button>
                                 </div>
                             </div>
 

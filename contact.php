@@ -51,7 +51,7 @@
             <div class="contact-form text-white" action="">
                 <div id="contact" class="contact-section">
                     <h2 class="section-heading">CONTACT US</h2>
-                    <div class="section-sub-heading">Car service encompasses essential maintenance tasks to ensure the optimal performance and longevity of vehicles, including oil changes, tire rotations, and brake inspections.</div>
+                    <div class="section-sub-heading">Robotics and electronics parts encompasses essential maintenance tasks to ensure the optimal performance and longevity of robots.</div>
                     <div class="contact-content">
                         <div class="contact-information">
                             <div class="information-container">
