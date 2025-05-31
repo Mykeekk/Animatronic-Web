@@ -61,7 +61,7 @@ include("CloseConnect.php");
         <li><a href="#" onclick="navigateTo('/home.php')">Home</a></li>
         <li><a href="#" onclick="navigateTo('/about.php')">About</a></li>
         <li><a href="#" onclick="navigateTo('/AutoItem.php')">Product</a></li>
-        <li><a href="#" onclick="navigateTo('/Service.php')">Service</a></li>
+        <li><a href="#" onclick="navigateTo('/Service.php')">Jobs</a></li>
         <li><a href="#" onclick="navigateTo('/contact.php')">ConTact</a></li>
 
     </ul>
