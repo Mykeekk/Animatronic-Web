@@ -21,7 +21,7 @@
                     <div class="doorstep-list">
                         <div class="doorstep-item">
                             <div class="doorstep-img-wrap">
-                                <img src="./assets/css/img/Doorstep_services/oilchange.jpg" alt="">
+                                <img src="./assets/css/img/Doorstep_services/Office 1.jpg" alt="">
                                 <div class="text-container">
                                     <h2 class="text-heading">SECURITY - NIGHT SHIFT</h2>
                                     <div class="text-sub-heading">Be part of our family with payment up to $50/hour</div>
@@ -32,7 +32,7 @@
                         </div>
                         <div class="doorstep-item">
                             <div class="doorstep-img-wrap">
-                                <img src="./assets/css/img/Doorstep_services/batteryTesting.jpg" alt="">
+                                <img src="./assets/css/img/Doorstep_services/Office 2.jpg" alt="">
                                 <div class="text-container">
                                     <h2 class="text-heading">SECURITY - NIGHT SHIFT</h2>
                                     <div class="text-sub-heading">Be part of our family with payment up to $50/hour</div>
@@ -43,7 +43,7 @@
                         </div>
                         <div class="doorstep-item">
                             <div class="doorstep-img-wrap">
-                                <img src="./assets/css/img/Doorstep_services/carwashing.jpg" alt="">
+                                <img src="./assets/css/img/Doorstep_services/Office 3.jpg" alt="">
                                 <div class="text-container">
                                     <h2 class="text-heading">SECURITY - NIGHT SHIFT</h2>
                                     <div class="text-sub-heading">Be part of our family with payment up to $50/hour</div>
